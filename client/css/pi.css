@@ -1,0 +1,38 @@
+.find-pi .controls{
+  margin: 0 0 10px;
+}
+.find-pi .status-header{
+  font-size: 2em;
+}
+.find-pi .status{
+  border: 2px dashed #000;
+  padding: 10px 20px;
+  margin: 0 0 20px;
+}
+.find-pi .counter{
+  text-align: center;
+}
+.find-pi .counter .count-box{
+  display: inline-block;
+  padding: 5px 2.5vw;
+  border: 2px dashed #000;
+  font-size: 4rem;
+  color: white;
+}
+.find-pi .counter .count-box:nth-last-child(1), .find-pi .counter .count-box:nth-last-child(2), .find-pi .counter .count-box:nth-last-child(3){
+  background: #26A69A;
+}
+.find-pi .counter .count-box:nth-last-child(4), .find-pi .counter .count-box:nth-last-child(5), .find-pi .counter .count-box:nth-last-child(6){
+  background: #2196F3;
+}
+.find-pi .counter .count-box:nth-last-child(7), .find-pi .counter .count-box:nth-last-child(8), .find-pi .counter .count-box:nth-last-child(9){
+  background: #F14235;
+}
+.find-pi .pi-value{
+  display: none;
+}
+.find-pi #pi-value{
+  word-wrap: break-word;
+  width: 600px;
+  margin: 0 auto;
+}

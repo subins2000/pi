@@ -1,0 +1,11 @@
+100000:21
+
+(21/100000) * 10000000
+
+For 5 Million Digits = 1050 minutes = 17 Hours 30 Minutes
+
+For 10 Million Digits = 2100 minutes = 1 Day and 11 Hours
+
+For 100 Million Digits = 21000 minutes = 14 Day and 12 Hours
+
+For 1 Billion Digits = 210000 minutes = 145 days
